@@ -1,7 +1,8 @@
 # Library Management System
 
-A full-stack library management system built using Java, JSP, Servlets, JDBC, and MySQL.
+A full stack Library Management System built using Java, JSP, Servlets, JDBC and MySQL.
 
+---
 
 ## Features
 
@@ -61,10 +62,10 @@ A full-stack library management system built using Java, JSP, Servlets, JDBC, an
 ## Database Setup
 
 1. Open MySQL Workbench
-2. Create a database named library.
-3. Import 'library_management.sql'.
+2. Create a database named 'library'
+3. Import 'library_management.sql'
 4. Configure JDBC connection
-5. Run the project on the Tomcat Server
+5. Run project on Tomcat Server
 
 ---
 
